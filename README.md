@@ -7,13 +7,8 @@ Gostaria de Agradecer à comissão do XLI Encontro Nacional do Estudantes de Bib
 
 ## Resumo do Curso
 Esse curso tem o propósito de introduzir os alunos de Biblioteconomia, Documentação, Ciência e Gestão da Informação ao processo de KDD e tentar trazê-los mais para perto dessa área que é predominada pelo pessoal de TI e Estatística. O curso se divide em parte teórica mostrando a origem do fenômeno Big Data, o profissional que trabalha com mineração de dados atualmente, os mitos que normalmente fazem com que as pesssoas se afastem dessa área, o processo de KDD, éticas e leis sobre o uso de dados e por fim a parte prática usando o WEKA e um de seus datasets de exemplo (iris). Ao fim estão as referências utilizadas.
+Ao montar os ![Slides](./Fernando-Durier-Introdução-à-Mineração-de-Dados-Teoria-e-Prática-com-WEKA.pdf) do minicurso tentei deixar o máximo de informação possível para que possa ser sempre consultado.
 
-## Slides
-Slides do minicurso. Tentei deixar o máximo de informação possível para que possa ser sempre consultado.
-
-------------------------
-![slides](./Fernando-Durier-Introdução-à-Mineração-de-Dados-Teoria-e-Prática-com-WEKA.pdf)
-------------------------
 
 ## Fotos do Evento
 
