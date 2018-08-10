@@ -1,7 +1,7 @@
 ## XLI Encontro Nacional do Estudantes de Biblioteconomia, Documentação, Ciência e Gestão da Informação
 
 Me senti muito honrado e feliz por ter sido convidado para ministrar um minicurso sobre mineração de dados para os estudantes de Biblioteconomia, Documentação, Ciência e Gestão da Informação.
-O convite foi feito através da indicação da professora Dayanne da Silva Prudencio que foi muito importante para mim, pois me incentiva muito, me passou grandes conhecimentos sobre ciência da informação e gestão do conhecimento em suas aulas e acredita no meu potencial. Não tenho palavras para expressar minha gratidão à ela.
+O convite foi feito através da indicação da professora Dayanne da Silva Prudencio que é muito importante para mim, pois me incentiva muito, me passou grandes conhecimentos sobre ciência da informação e gestão do conhecimento em suas aulas e acredita no meu potencial. Não tenho palavras para expressar minha gratidão à ela.
 
 Gostaria de Agradecer à comissão do XLI Encontro Nacional do Estudantes de Biblioteconomia, Documentação, Ciência e Gestão da Informação por acreditar em mim e confiar tamanha honra a mim, fiquei muito contente com o evento, com a turma e com os colaboradoes. Em especial fiquei muito contente com a atenção, carinho e respeito da Ingrid R. Guimarães.
 
